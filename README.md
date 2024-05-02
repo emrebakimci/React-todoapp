@@ -44,7 +44,6 @@ The app should now be running on [http://localhost:5173](http://localhost:5173).
 - To add a new task, type the task in the input field and press Enter.
 - To mark a task as completed, click on the checkbox next to the task.
 - To remove a task, click on the delete icon next to the task.
-- To filter tasks, use the filter buttons at the top.
 
 ## Contributing
 
