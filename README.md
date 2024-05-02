@@ -1,6 +1,7 @@
 
-
 # Vite Todo App
+
+![Ekran görüntüsü 2024-05-02 153709](https://github.com/emrebakimci/React-todoapp/assets/115481070/38355053-fd44-4b9f-a17b-b05598f97b24)
 
 This is a simple Todo application built using Vite. It allows users to add, remove, and mark tasks as completed.
 
@@ -9,7 +10,6 @@ This is a simple Todo application built using Vite. It allows users to add, remo
 - Add new tasks
 - Mark tasks as completed
 - Remove tasks
-- Filter tasks by status (All, Completed, Active)
 
 ## Installation
 
